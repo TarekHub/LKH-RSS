@@ -1,0 +1,14 @@
+PROBLEM_FILE = instances/pds2566/pds2566.tsp
+INITIAL_TOUR_FILE = instances/pds2566/InputTours/pds2566_input_1.inputtourfile
+PI_FILE = instances/pds2566/pds2566.pi
+OPTIMUM = 7643
+
+RUNS = 40
+TRACE_LEVEL = 3
+TRIAL_TIME_BUDGET = 2
+
+MAX_TRIALS = 1
+MOVE_TYPE = 6
+LAMBDA = 5	
+MAX_CANDIDATES = 30
+SAMPLING_BIAS = BIASED
